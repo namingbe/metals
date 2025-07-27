@@ -1,0 +1,19 @@
+# Build artifacts
+compute
+*.o
+*.air
+*.metallib
+
+# Downloaded dependencies
+metal-cpp/
+metal-cpp.zip
+
+# Generated images
+# *.png
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+.idea/
